@@ -1,0 +1,14 @@
+html {
+  background: url(background.jpg) no-repeat center center fixed;
+  background-color: black;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+img {
+  max-width: 100vw;
+  margin-top: 30vh;
+}
